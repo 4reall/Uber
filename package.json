@@ -1,6 +1,8 @@
 {
 	"homepage": "https://4reall.github.io/Uber",
-	
+	"scripts": {
+		"deploy": "gh-pages -d dist"
+	},
 	"devDependencies": {
    	"gh-pages": "^3.2.3"
   }
