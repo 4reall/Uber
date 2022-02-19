@@ -1,0 +1,7 @@
+{
+	"homepage": "https://4reall.github.io/Uber",
+	
+	"devDependencies": {
+   	"gh-pages": "^3.2.3"
+  }
+}
